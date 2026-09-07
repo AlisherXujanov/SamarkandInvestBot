@@ -1,0 +1,16 @@
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit
+venv/
+.venv/
+env/
+
+# Atrof-muhit fayli (xavfsizlik uchun Tokenlarni Git ga yuklamaslik)
+.env
+
+# IDE sozlamalari
+.vscode/
+.idea/
