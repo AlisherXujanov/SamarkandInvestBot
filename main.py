@@ -6,7 +6,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
 from aiogram.client.default import DefaultBotProperties
 
-from SamarkandInvestBot.config import BOT_TOKEN
+from config import BOT_TOKEN
 from handlers import start, store, echo
 
 async def main():
